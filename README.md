@@ -10,7 +10,7 @@ Personal details
 
 <dl>
   <dt>Address</dt>
-  <dd>Pablo Vergés<br />Postgasse 18<br />CH-3011 Bern</dd>
+  <dd>Pablo Vergés<br />Huusmatt 6<br />CH-5405 Baden</dd>
 
   <dt>E-Mail</dt>
   <dd>pablo.verges@gmail.com</dd>
