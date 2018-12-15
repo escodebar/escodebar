@@ -70,6 +70,23 @@ Work Experience
 
 ### Software Developement
 
+#### DECTRIS Ltd.
+*Täfernweg 1, 5405 Baden, 2018 to present*
+
+**Hangouts Bitbucket service:**
+I built and maintain a service to send messages to specified Google Hangouts channels.
+It receives updates from the Bitbucket server on several repository events and passes relevant information to the configured hangouts channel.
+
+**Detector assembly test:**
+I collaborate in the development of a framework to test our detector's assembly.
+It allows to automatically detect missing connections or defects in the assembled detector.
+
+**Git trainings:**
+I prepare trainings, in which the functionality and internals of Git are discussed, to improve the quality of our collaboration.
+
+**Used technologies:**
+Python, py.test, Flask, marshmallow, Git, Bitbucket, pip, Bazel, Ansible, requests, Docker, Helm, Drone, Buildkite
+
 #### 4teamwork AG
 *Dammweg 9, 3013 Bern, 2017 to 2018*
 
