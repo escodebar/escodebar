@@ -22,49 +22,6 @@ Personal details
   <dd>Swiss / Spanish</dd>
 </dl>
 
-Education
----------
-
-### MSc in Physics
-*Experimental Physics - University of Bern - 2015 to 2016*
-
-#### Thesis: *SiPM Gain calibration for the scintillating Cosmic Ray Tracker*
-I wrote a set of applications and used them to collect, evaluate and display data from the cosmic ray tracker panels.
-These tools allow automatising the SiPM gain calibration process.
-I also helped producing the panels in the workshop.
-
-See:
-[Master Thesis](https://github.com/escodebar/Calibration-SiPM),
-[CalibRaTe](https://github.com/escodebar/CalibRaTe),
-[Master Diploma](master_diploma.pdf),
-[Master Program](master_program.pdf)
-
-**Used technologies:**
-Python, C, C++, ZeroMQ, Jupyter, Plotly, LaTeX, Make, ROOT, Kibana, Docker, InfluxDB, Matlab / Octave, Mathematica, Gnuplot
-
-### BSc in Physics
-*With a minor in mathematics - University of Bern - 2010 to 2015*
-
-#### Thesis: *Statistische Interpretation von Suchergebnissen im ATLAS Experiment*
-I wrote a set of scripts to run the computational analysis of the test statistics with varying input parameters.
-The results where then compared with the expected results to evaluate the computational analysis software.
-
-**Used technologies:**
-Bash, Python, LaTeX, Matlab / Octave, Mathematica, Gnuplot
-
-### Computer Science
-*Hochschule für Technik Rapperswil - 2007 to 2008*
-
-*École polytechnique fédérale de Lausanne - 2004 to 2006*
-
-### Maturität
-*Gymnasium Interlaken - 2001 to 2004*
-
-### Advanced Trainings
-[Machine Learning](coursera_machine_learning_diploma.pdf) - *Stanford University / Coursera - 2016*
-
-Python Programming - *Wesleyan University - 2017*
-
 Work Experience
 ---------------
 
@@ -201,6 +158,49 @@ I also present experiments related to Einstein's work in a yearly event dedicate
 *2005 to 2015*
 
 I guided Spanish speaking groups through Switzerland and southern Germany during Sinnvoll Reisen GmbH's active years.
+
+Education
+---------
+
+### MSc in Physics
+*Experimental Physics - University of Bern - 2014 to 2016* - 2 years
+
+#### Thesis: *SiPM Gain calibration for the scintillating Cosmic Ray Tracker*
+I wrote a set of applications and used them to collect, evaluate and display data from the cosmic ray tracker panels.
+These tools allow automatising the SiPM gain calibration process.
+I also helped producing the panels in the workshop.
+
+See:
+[Master Thesis](https://github.com/escodebar/Calibration-SiPM),
+[CalibRaTe](https://github.com/escodebar/CalibRaTe),
+[Master Diploma](master_diploma.pdf),
+[Master Program](master_program.pdf)
+
+**Used technologies:**
+Python, C, C++, ZeroMQ, Jupyter, Plotly, LaTeX, Make, ROOT, Kibana, Docker, InfluxDB, Matlab / Octave, Mathematica, Gnuplot
+
+### BSc in Physics
+*With a minor in mathematics - University of Bern - 2010 to 2014* - 4 years
+
+#### Thesis: *Statistische Interpretation von Suchergebnissen im ATLAS Experiment*
+I wrote a set of scripts to run the computational analysis of the test statistics with varying input parameters.
+The results where then compared with the expected results to evaluate the computational analysis software.
+
+**Used technologies:**
+Bash, Python, LaTeX, Matlab / Octave, Mathematica, Gnuplot
+
+### Computer Science
+*Hochschule für Technik Rapperswil - 2007 to 2008*
+
+*École polytechnique fédérale de Lausanne - 2004 to 2006*
+
+### Maturität
+*Gymnasium Interlaken - 2001 to 2004*
+
+### Advanced Trainings
+[Machine Learning](coursera_machine_learning_diploma.pdf) - *Stanford University / Coursera - 2016*
+
+Python Programming - *Wesleyan University - 2017*
 
 Skills and competences
 ----------------------
