@@ -32,7 +32,7 @@ Work Experience
 
 **Business software landscape:**
 I currently contribute to shape the business software landscape to allow DECTRIS to adapt to our current and future needs.
-[This](This) includes disentagling the current systems, defining resilient interfaces and improving our business processes.
+This includes disentagling the current systems, defining resilient interfaces and improving our business processes.
 
 **Manufacturing execution system prototype:**
 To understand the needs of our manufacturing, I prototyped a user interface for a manufacturing execution system.
@@ -61,7 +61,10 @@ It allows to automatically detect missing connections or defects in the assemble
 I prepare trainings, in which the functionality and internals of Git are discussed, to improve the quality of our collaboration.
 
 **Used technologies:**
-Python, py.test, Flask, marshmallow, Git, Bitbucket, pip, Bazel, Ansible, requests, Docker, Helm, Drone, Buildkite
+Python, py.test, Cypress, Vue.js, Vuex, Vue Router, gRPC, Flask, marshmallow, Git, Bitbucket, pip, Bazel, Ansible, requests, Docker, Helm, Drone, Buildkite
+
+Used methodologies:
+BDD, TDD, pair programming, mob programming, pike & stabilize, walk a mmile, DDD, event storming
 
 #### 4teamwork AG
 *Dammweg 9, 3013 Bern, 2017 to 2018* - 1 year 7 months
