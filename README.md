@@ -28,7 +28,7 @@ Work Experience
 ### Software Developement
 
 #### DECTRIS Ltd.
-*Täfernweg 1, 5405 Baden, 2018 to present*
+*Täfernweg 1, 5405 Baden, 2018 to present - 2 years 1 month*
 
 **Business software landscape:**
 I currently contribute to shape the business software landscape to allow DECTRIS to adapt to our current and future needs.
@@ -64,7 +64,7 @@ I prepare trainings, in which the functionality and internals of Git are discuss
 Python, py.test, Flask, marshmallow, Git, Bitbucket, pip, Bazel, Ansible, requests, Docker, Helm, Drone, Buildkite
 
 #### 4teamwork AG
-*Dammweg 9, 3013 Bern, 2017 to 2018*
+*Dammweg 9, 3013 Bern, 2017 to 2018* - 1 year 7 months
 
 **Boilerplate for Django projects:**
 I build and maintain the boilerplate for Django projects.
@@ -100,7 +100,7 @@ In a team of two, we built an application to permit priests to specify available
 Python, Django, py.test, PostgreSQL, Django REST framework, HTML, CSS, SCSS, rules, Plone, Git, GitHub, pip, venv, buildout, Javascript, jQuery, Vue.js, vuetify, axios, webpack, Solr, GitLab, requests, Docker, Zeep
 
 #### Adfinis SyGroup AG
-*Giessereiweg 5, 3007 Bern - 2015 to 2016*
+*Giessereiweg 5, 3007 Bern - 2015 to 2016* - 8 months
 
 **Server monitoring, alarming and reporting system - SyMonitoring:**
 I helped implementing the evaluation for the outage reports and wrote the visualisation of the monitored infrastructure’s current status.
@@ -114,7 +114,7 @@ PHP, Javascript, jQuery, vis.js, Python, MySQL, Django, Vagrant, Git, GitLab, C+
 [Credentials](credentials/adsy.pdf)
 
 #### Gonnado AG
-*Lorrainestrasse 14, 3013 Bern - 2010*
+*Lorrainestrasse 14, 3013 Bern - 2010* - 9 months
 
 I helped designing, implementing and maintaining Gonnado's social network.
 I also wrote various webcrawlers to provide data for the platform.
@@ -123,7 +123,7 @@ I also wrote various webcrawlers to provide data for the platform.
 Python, Django, Scrapy, Javascript, jQuery, PostgreSQL, PostGIS, Git, HTML, CSS
 
 #### Bitfrucht Media AG
-*Industriepark 11, 8610 Uster - 2007*
+*Industriepark 11, 8610 Uster - 2007* - 9 months
 
 During my internship I developed a content management system and used it to build the websites of several customers.
 
@@ -136,14 +136,14 @@ PHP, Javascript, TinyMCE, MySQL, HTML, CSS
 ### Teaching
 
 #### University of Bern
-*Sidlerstrasse 5, 3012 Bern - 2015 to 2016*
+*Sidlerstrasse 5, 3012 Bern - 2015 to 2016 - 6 months*
 
 I assisted students of the faculty of medicine on a practical course on diffraction of light on a grating, the light spectrum and atom model by Nils Bohr.
 
 [Credentials](credentials/unibe.pdf)
 
 #### Freies Gymnasium Bern
-*Beaulieustrasse 55, 3012 Bern - 2013 to 2014*
+*Beaulieustrasse 55, 3012 Bern - 2013 to 2014 - 3 months*
 
 I was the substitute teacher in mathematics for two classes during three months.
 One of the classes was introduced to vector geometry, the other into programming with Python.
@@ -151,7 +151,7 @@ One of the classes was introduced to vector geometry, the other into programming
 [Credentials](credentials/fgb.pdf)
 
 #### Kantonsschule Reussbühl
-*Ruopigenstrasse 40, 6015 Luzern - 2013*
+*Ruopigenstrasse 40, 6015 Luzern - 2013 - 1 month*
 
 I was the substitute teacher in mathematics for two school classes during a month.
 The discussed subjects were geometry and trigonometry.
@@ -159,7 +159,7 @@ The discussed subjects were geometry and trigonometry.
 [Credentials](credentials/ksr.pdf)
 
 #### École profesionnelle artisanale et industrielle de Fribourg
-*Derrière-les-Remparts 5, 1700 Fribourg - 2012 to 2013*
+*Derrière-les-Remparts 5, 1700 Fribourg - 2012 to 2013 - 1 year*
 
 I gave a supporting course on mathematics in French and German to prepare the qualifying examination of the Berufsmaturitätsschule.
 
@@ -174,7 +174,7 @@ I guide groups through the Einstein exhibition in German, French and English.
 I also present experiments related to Einstein's work in a yearly event dedicated to him.
 
 #### Sinnvoll Reisen GmbH
-*2005 to 2015*
+*2005 to 2015* - 10 years
 
 I guided Spanish speaking groups through Switzerland and southern Germany during Sinnvoll Reisen GmbH's active years.
 
