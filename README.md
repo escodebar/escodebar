@@ -30,8 +30,27 @@ Work Experience
 #### DECTRIS Ltd.
 *Täfernweg 1, 5405 Baden, 2018 to present*
 
+**Business software landscape:**
+I currently contribute to shape the business software landscape to allow DECTRIS to adapt to our current and future needs.
+[This](This) includes disentagling the current systems, defining resilient interfaces and improving our business processes.
+
+**Manufacturing execution system prototype:**
+To understand the needs of our manufacturing, I prototyped a user interface for a manufacturing execution system.
+It allows operators to pick tasks according to the specified work place and execute it.
+It communicates with a backend via gRPC.
+
+**Detector system user interface:**
+I rewrote the user interface for one of our most important products.
+It communicates with a backend via gRPC and allows users to get system status information and getting as well as setting the system's configuration.
+The software structure is used as the new standard for further inhouse developed web user interfaces.
+
+**Detector system calibration:**
+I helped rewriting the system calibration - one of the most challengings steps of our production - using domain driven design.
+I interpreted the old code, translated it to psuedo code to describe the procedure to the team and implemented parts of the new system calibration.
+I also run the system calibration during the development to test the results.
+
 **Hangouts Bitbucket service:**
-I built and maintain a service to send messages to specified Google Hangouts channels.
+I built a service to send messages to specified Google Hangouts channels.
 It receives updates from the Bitbucket server on several repository events and passes relevant information to the configured hangouts channel.
 
 **Detector assembly test:**
