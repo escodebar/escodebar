@@ -10,7 +10,7 @@ Personal details
 
 <dl>
   <dt>Address</dt>
-  <dd>Pablo Vergés<br />Husmatt 4<br />CH-5405 Baden</dd>
+  <dd>Pablo Vergés<br />Mellingerstrasse 18<br />CH-5400 Baden</dd>
 
   <dt>E-Mail</dt>
   <dd>pablo.verges@gmail.com</dd>
