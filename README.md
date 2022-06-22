@@ -243,6 +243,8 @@ Bash, Python, LaTeX, Matlab / Octave, Mathematica, Gnuplot
 *Gymnasium Interlaken - 2001 to 2004*
 
 ### Advanced Trainings
+Radical Collaboration - *Euforia - 2020*
+
 [Machine Learning](coursera_machine_learning_diploma.pdf) - *Stanford University / Coursera - 2016*
 
 Python Programming - *Wesleyan University - 2017*
@@ -250,11 +252,14 @@ Python Programming - *Wesleyan University - 2017*
 Skills and competences
 ----------------------
 
-### Soft skills
-I am an active and empathetic listener.
-Understanding my counterparts' needs is critical to me.
-I attended a lecture on communication for engineers at the HSR.
-I enjoy being a team player and supporting others solving tasks.
+### Collaboration skills
+I attended a lecture on communication for engineers at the HSR and the *Radical Collaboration* workshop.
+I am an active and empathetic listener and understanding my counterparts' needs is critical to me.
+I like taking into account many options to find a solutions which fits my counterparts' and my needs best.
+
+### Social networking
+It is natural to me to be well connected.
+I have access to a network which allows me to discuss not only abstract but also detailed topics.
 
 ### Programming
 Python is my weapon of choice.
