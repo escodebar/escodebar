@@ -58,18 +58,18 @@ I established a set of values and principles for the collaboration within the te
 I also introduced retrospectives and daily standup meetings to improve the collaboration within the team.
 
 **Manufacturing execution system prototype:**
-To understand the needs of our manufacturing, I prototyped a user interface for a manufacturing execution system.
+To understand the needs of our manufacturing processes, I prototyped a user interface for a manufacturing execution system.
 It allows operators to pick tasks according to the specified work place and execute it.
-It communicates with a backend via gRPC.
 
 **Detector system user interface:**
-I rewrote the user interface for one of our most important products.
-It communicates with a backend via gRPC and allows users to get system status information and getting as well as setting the system's configuration.
+I rebuilt the web interface for one of our most important detectors, to reduce the leakage of implementation details and provide a more intuitive abstraction to its users.
+It allows configuring the system and retrieving its status information.
 The software structure is used as the new standard for further inhouse developed web user interfaces.
 
 **Detector system calibration:**
-I helped rewriting the system calibration - one of the most challengings steps of our production - using domain driven design.
-I interpreted the old code, translated it to psuedo code to describe the procedure to the team and implemented parts of the new system calibration.
+I helped rewriting the system calibration - one of the most challenging steps of our production - using domain driven design.
+I interpreted the existing code for some of the steps in the core domain and explained the processes to the team.
+I implemented parts of the new system calibration as well as tooling for the supporting domains.
 I also run the system calibration during the development to test the results.
 
 **Hangouts Bitbucket service:**
@@ -77,11 +77,11 @@ I built a service to send messages to specified Google Hangouts channels.
 It receives updates from the Bitbucket server on several repository events and passes relevant information to the configured hangouts channel.
 
 **Detector assembly test:**
-I collaborate in the development of a framework to test our detector's assembly.
-It allows to automatically detect missing connections or defects in the assembled detector.
+I collaborated in the implementation of our detector's assembly test.
+It allows to automatically detect missing connections or defects in the assembled detectors.
 
 **Git trainings:**
-I prepare trainings, in which the functionality and internals of Git are discussed, to improve the quality of our collaboration.
+I prepare trainings, in which the functionality and internals of Git are discussed, to improve our version control and our collaboration.
 
 **Used technologies:**
 Python, py.test, Cypress, Vue.js, Vuex, Vue Router, gRPC, Flask, marshmallow, Git, Bitbucket, pip, Bazel, Ansible, requests, Docker, Helm, Drone, Buildkite
