@@ -263,8 +263,8 @@ I have access to a network which allows me to discuss not only abstract but also
 
 ### Programming
 Python is my weapon of choice.
-I know its ecosystem and feel comfortable using its tools (venv, pip, unittest / py.test, jupyter, pdb, logging, …).
-I also use C, C++, Javascript or Ruby where required.
+I know its ecosystem and feel comfortable using its tools (venv, pip, unittest / py.test, jupyter, pdb, …).
+I also use other programming languages (C, C++, Javascript or Ruby) where it is meaningful.
 In general, I enjoy learning new programming languages, frameworks and libraries, since they often come with useful, new concepts.
 I’m very interested in service oriented architecture since the fist time I used ZeroMQ.
 
@@ -274,21 +274,8 @@ Making applications configurable to deploy then in many different environments u
 I also learnt managing and isolating application dependencies to prevent dependency version conflicts.
 
 ### Problem solving abilities and analytical skills
-I like tackling and solving complex problems using different techniques to find the most elegant or most pragmatic solution.
-I can read and review other’s program code.
-I also evaluate third party applications and libraries to foresee complications before using them.
+I like tackling and solving complex problems using different techniques to find a solution as required by the context of the problem.
 
-### Documentation
-I document my work according to the requirements.
-I can create user manuals using Sphinx and used Swagger to create automatised API documentations.
-Most of my personal projects come along with a markdown readme.
-I use Git for documenting changes and code comments for complex snippets of code.
-
-### Systems
-I feel comfortable using the shell (on Linux and macOS).
-I have some experience configuring http servers and databases.
-I also worked with puppet, docker and vagrant and I am aware of technologies like packer, terraform.
-I am very interested in the DevOps culture.
 
 Extracurricular activities
 --------------------------
