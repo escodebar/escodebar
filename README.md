@@ -5,6 +5,8 @@ Pablo Vergés
 
 Experimental physicist experienced in software development.
 
+Highly interested in all topics adjacent to software engineering.
+
 Personal details
 ----------------
 
