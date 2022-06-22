@@ -194,7 +194,7 @@ I gave a supporting course on mathematics in French and German to prepare the qu
 ### Tour Guide
 
 #### Bern Historical Museum
-*Helvetiaplatz 5, 3005 Bern - 2016 to present*
+*Helvetiaplatz 5, 3005 Bern - 2016 to 2021 - 4 years 10 months*
 
 I guide groups through the Einstein exhibition in German, French and English.
 I also present experiments related to Einstein's work in a yearly event dedicated to him.
