@@ -84,10 +84,10 @@ It allows to automatically detect missing connections or defects in the assemble
 I prepare trainings, in which the functionality and internals of Git are discussed, to improve our version control and our collaboration.
 
 **Used technologies:**
-Python, py.test, Cypress, Vue.js, Vuex, Vue Router, gRPC, Flask, marshmallow, Git, Bitbucket, pip, Bazel, Ansible, requests, Docker, Helm, Drone, Buildkite
+Bash, Postgres, Prometheus, Grafana, Bazel, Concourse, K8s, Podman & Docker, Git, Python, py.test, Cypress, Vue.js, Vuex, Vue Router, gRPC, Flask
 
-Used methodologies:
-BDD, TDD, pair programming, mob programming, pike & stabilize, walk a mmile, DDD, event storming
+**Used methodologies:**
+BDD, TDD, pair programming, mob programming, spike & stabilize, walk a mile, DDD, event storming, value stream mapping, wardley mapping, interest based negotiation
 
 #### 4teamwork AG
 *Dammweg 9, 3013 Bern, 2017 to 2018* - 1 year 7 months
