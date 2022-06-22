@@ -27,14 +27,35 @@ Personal details
 Work Experience
 ---------------
 
-### Software Developement
+### Software Engineering
 
 #### DECTRIS Ltd.
-*Täfernweg 1, 5405 Baden, 2018 to present - 2 years 1 month*
+*Täfernweg 1, 5405 Baden, 2018 to present - 3 years 10 months*
 
-**Business software landscape:**
-I currently contribute to shape the business software landscape to allow DECTRIS to adapt to our current and future needs.
-This includes disentagling the current systems, defining resilient interfaces and improving our business processes.
+**ERP infrastructure:**
+I designed and setup the infrastructure to improve maintenance, development, testing and debugging of our ERP solution.
+I established the tools to duplicate the production environment within minutes and therefore allow to debug unexpected behavior with current data.
+Using the same tools I allowed to create development environments to execute projects in parallel with some level of isolation.
+I also set up the monitoring infrastructure to allow generating and visualizing system information to identify unexpected behavior of our ERP solution and other legacy systems and increase transparency of our business data.
+
+**ERP upgrade:**
+I contributed to the analysis, planning and execution of the upgrade of our ERP solution.
+The complexity of this project was given by the considerable amount of untested customizations of our ERP solution as well as the entanglement to further legacy systems.
+
+**Principles of collaboration with partners and vendors:**
+To improve the collaboration with our partners and external software vendors I introduced a set of values and principles.
+Using these principles and our team's needs, I drafted the contract with our ERP vendor to support our collaborative intent.
+
+**Software delivery cycle optimization:**
+I took the responsibility for a production critical legacy system and reduced its build and deployment times by 90% to improve its development and maintenance.
+
+**Manufacturing execution system evaluation:**
+In a sandboxed experiment, I helped mapping DECTRIS' manufacturing processes in two solutions to evaluate the technology and collaboration with the solution's providers.
+
+**Process and quality management team formation:**
+I contributed to the formation of the team responsible to allow DECTRIS to adapt the business processes and its software landscape to current and future needs in a reasonable time span.
+I established a set of values and principles for the collaboration within the team and helped defining the scope, vision and strategy.
+I also introduced retrospectives and daily standup meetings to improve the collaboration within the team.
 
 **Manufacturing execution system prototype:**
 To understand the needs of our manufacturing, I prototyped a user interface for a manufacturing execution system.
