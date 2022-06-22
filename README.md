@@ -280,4 +280,6 @@ I like tackling and solving complex problems using different techniques to find 
 Extracurricular activities
 --------------------------
 
-I spend most of my free time climbing.
+I spend a lot of my free time climbing and bouldering.
+I also enjoy reading nonfiction media to deepen my knowledge in areas adjacent to software engineering or management.
+Once in a while I build non-standard keyboards to improve my typing ergonomy and train new muscle memory.
