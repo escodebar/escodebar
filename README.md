@@ -32,6 +32,21 @@ Work Experience
 #### DECTRIS Ltd.
 *Täfernweg 1, 5405 Baden, 2018 to present - 3 years 10 months*
 
+Program for data democratisation:
+I contributed in a team of 7 to the proposal of a program for data democratisation.
+My biggest contribution in this program was the definition of the project proposal to introduce a data strategy.
+
+Data ware house proof of concept:
+I built a proof of concept data warehouse to gain insights of how to replace an end of life legacy software.
+I managed discussions between stakeholders and did requirements engineering for determine the data models.
+I also introduced the tooling and infrastructure for sensible database change management.
+The proof of concept led to further knowledge on data platforms, modern data architecture and rose the awareness for the need of a data strategy.
+
+ASIC test suite environment and development methods:
+I defined the architecture for the ASIC team's test suite using domain driven design principles.
+This allowed them to test several versions of ASICs with minimal code duplication.ss
+I also introduced three members of the team into ensemble-programming, pair programming and the pull-request workflow.
+
 **ERP infrastructure:**
 I designed and setup the infrastructure to improve maintenance, development, testing and debugging of our ERP solution.
 I established the tools to duplicate the production environment within minutes and therefore allow to debug unexpected behavior with current data.
@@ -84,7 +99,7 @@ It allows to automatically detect missing connections or defects in the assemble
 I prepare trainings, in which the functionality and internals of Git are discussed, to improve our version control and our collaboration.
 
 **Used technologies:**
-Bash, Postgres, Prometheus, Grafana, Bazel, Concourse, K8s, Podman & Docker, Git, Python, py.test, Cypress, Vue.js, Vuex, Vue Router, gRPC, Flask
+Bash, Postgres, PostgREST, Sqitch, Prometheus, Grafana, Bazel, Concourse, K8s, Podman & Docker, Git, Python, py.test, Cypress, Vue.js, Vuex, Vue Router, gRPC, Flask
 
 **Used methodologies:**
 BDD, TDD, pair programming, mob programming, spike & stabilize, walk a mile, DDD, event storming, value stream mapping, wardley mapping, interest based negotiation
